@@ -1,6 +1,6 @@
 # Тестовое задание для Frontend-разработчика
 
-Необходимо разработать SPA-приложение с использованием [React][react-docs]/[Redux][redux-docs]/[React router][react-router-docs] (Vue/Vuex/Vue router).
+Необходимо разработать SPA-приложение с использованием [React][react-docs]/[Redux][redux-docs]/[React router][react-router-docs] ([Vue][vue-docs]/[Vuex][vuex-docs]/[Vue router][vue-router-docs]).
 
 ## :fire: Как начать выполнять тестовое задание
 

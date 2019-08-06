@@ -132,12 +132,12 @@ $ yarn test
 > Если в процессе выполнения у вас возникнут какие-либо неразрешимые вопросы - создайте [соответствующий issue][link_create_issue] в данном репозитории. На вопросы касательно деталей реализации ("А лучше так и так?") - вероятнее всего вы получите ответ "Как вы посчитаете правильнее".
 
 [figma-proto-link]:https://www.figma.com/file/ZhhPbI0rJnQ5u15tw7bAWn/Demo-application?node-id=0%3A1
-[figma-file]:https://github.com/Reallife/frontend-developer-test-task/raw/master/resources/demo-application.fig
-[auth-page-image]:https://github.com/Reallife/frontend-developer-test-task/raw/master/resources/auth-page.png
-[auth-page-mobile-image]:https://github.com/Reallife/frontend-developer-test-task/raw/master/resources/auth-page-mobile.png
-[inner-page-image]:https://github.com/Reallife/frontend-developer-test-task/raw/master/resources/inner-page.png
-[inner-page-mobile-image]:https://github.com/Reallife/frontend-developer-test-task/raw/master/resources/inner-page-mobile.png
-[link_create_issue]:https://github.com/Reallife/frontend-developer-test-task/issues/new
+[figma-file]:https://github.com/avtocod/frontend-developer-test-task/raw/master/resources/demo-application.fig
+[auth-page-image]:https://github.com/avtocod/frontend-developer-test-task/raw/master/resources/auth-page.png
+[auth-page-mobile-image]:https://github.com/avtocod/frontend-developer-test-task/raw/master/resources/auth-page-mobile.png
+[inner-page-image]:https://github.com/avtocod/frontend-developer-test-task/raw/master/resources/inner-page.png
+[inner-page-mobile-image]:https://github.com/avtocod/frontend-developer-test-task/raw/master/resources/inner-page-mobile.png
+[link_create_issue]:https://github.com/avtocod/frontend-developer-test-task/issues/new
 [vin-validation-wikipedia]:https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%BE#%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_(VIN)
 [create-react-app-docs]:https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
 [vue-cli-docs]:https://cli.vuejs.org/ru/guide/installation.html

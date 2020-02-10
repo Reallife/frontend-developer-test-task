@@ -28,7 +28,10 @@ install: ## Install all dependencies
 	$(docker_bin) run $(RUN_ARGS) $(RUN_INTERACTIVE) "$(NODE_IMAGE)" yarn install
 
 test: ## Execute tests and linters
-	$(docker_bin) run $(RUN_ARGS) $(RUN_INTERACTIVE) "$(NODE_IMAGE)" bash -c "yarn run lint && yarn run test:unit && yarn run test:e2e"
+	$(docker_bin) run $(RUN_ARGS) $(RUN_INTERACTIVE) "$(NODE_IMAGE)" bash -c "yarn run lint && yarn run test:unit"
+
+lint: ## Execute tests and linters
+	$(docker_bin) run $(RUN_ARGS) $(RUN_INTERACTIVE) "$(NODE_IMAGE)" bash -c "yarn run lint"
 
 fix: ## Execute sources fixing
 	$(docker_bin) run $(RUN_ARGS) $(RUN_INTERACTIVE) "$(NODE_IMAGE)" yarn run lint:fix
